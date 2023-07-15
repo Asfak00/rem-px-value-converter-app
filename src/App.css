@@ -108,7 +108,7 @@
   font-size: 1.1rem;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 800px) {
   .wrapper_div {
     width: 90%;
     padding: 2rem;
