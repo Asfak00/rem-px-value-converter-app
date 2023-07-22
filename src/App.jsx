@@ -43,7 +43,7 @@ function App() {
           <div className="flex">
             <div className="input_div">
               <input
-                type="number"
+                type="text"
                 placeholder="value"
                 onChange={handleInputChange}
               />
